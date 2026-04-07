@@ -1,16 +1,49 @@
-# React + Vite
+# 🚀 DigiTools Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Description
+DigiTools Platform is a modern web application that provides premium digital tools such as AI writing, design templates, automation tools, and more. It helps users improve productivity and creativity by offering multiple tools in one place with an easy-to-use interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ⚙️ Technologies Used
+- React.js  
+- Vite  
+- Tailwind CSS  
+- DaisyUI  
+- JavaScript (ES6+)  
+- React Toastify  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Key Features
 
-## Expanding the ESLint configuration
+### 1. 🛒 Product & Cart System
+- Users can browse multiple digital tools  
+- Add products to cart  
+- Remove items from cart  
+- Cart count updates dynamically  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io)
+### 2. 🔄 Interactive UI & Navigation
+- Clean and responsive design  
+- Product and Cart toggle system  
+- Smooth user experience across devices  
+
+### 3. 🔔 Real-Time Notifications
+- Uses React Toastify  
+- Shows alerts for:
+  - Add to cart  
+  - Remove product  
+  - Checkout  
+
+---
+
+## 📱 Live Website
+👉 https://nelomelma.github.io/digi-tools-platform/
+
+---
+
+## 📂 How to Run Locally
+
+```bash
+npm install
+npm run dev
